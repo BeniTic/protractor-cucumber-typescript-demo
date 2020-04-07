@@ -75,3 +75,8 @@ Then('I should see the welcome message {string}', async (text: string) => {
 
 #### run with `npm run e2e`
 protractor .\e2e\protractor.conf.js --cucumberOpts.tags="@bookster"
+
+
+#### run with debug config
+download chromedriver and set path in update-config.json
+\node_modules\protractor\node_modules\webdriver-manager\selenium\
