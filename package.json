@@ -1,5 +1,5 @@
 {
-  "name": "angular7-cli-protractor-cucumber-typescript-boilerplate",
+  "name": "protractor-cucumber-typescript",
   "version": "0.0.0",
   "private": true,
   "dependencies": {
